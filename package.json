@@ -1,0 +1,28 @@
+{
+  "name": "zoomclone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faiyajz/zoomclone_nodejs.git"
+  },
+  "author": "Md. Faiyaj Zaman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Faiyajz/zoomclone_nodejs/issues"
+  },
+  "homepage": "https://github.com/Faiyajz/zoomclone_nodejs#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "uuid": "^8.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
